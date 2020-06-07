@@ -16,6 +16,7 @@ AAAI 2017: Cascade subspace clustering
 AAAI 2017: Unsupervised multi-manifold clustering by learning deep representation
 ARXIV 2017: Deep unsupervised clustering using mixture of autoencoders
 
+
 2018:
 CVPR 2018: Deep adversarial subspace clustering
 Arxiv 2018: Deep k-Means: Jointly clustering with -Means and learning representations
