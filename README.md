@@ -2,19 +2,19 @@
 paper list
 
 2016:
-ICML 2016 Unsupervised deep embedding for clustering analysis
+ICML 2016 Unsupervised deep embedding for clustering analysis  
 
 
 
-2017:
-ICCV 2017: Deep clustering via joint convolutional autoencoder embedding and relative entropy minimization
-IJCAI 2017: Improved deep embedded clustering with local structure preservation
-NIPS 2017: Deep subspace clustering networks
-TIP 2017: Structured autoencoders for subspace clustering
-Arxiv 2017: Spectralnet: Spectral clustering using deep neural networks
-AAAI 2017: Cascade subspace clustering
-AAAI 2017: Unsupervised multi-manifold clustering by learning deep representation
-ARXIV 2017: Deep unsupervised clustering using mixture of autoencoders
+2017:  
+ICCV 2017: Deep clustering via joint convolutional autoencoder embedding and relative entropy minimization  
+IJCAI 2017: Improved deep embedded clustering with local structure preservation  
+NIPS 2017: Deep subspace clustering networks  
+TIP 2017: Structured autoencoders for subspace clustering  
+Arxiv 2017: Spectralnet: Spectral clustering using deep neural networks  
+AAAI 2017: Cascade subspace clustering  
+AAAI 2017: Unsupervised multi-manifold clustering by learning deep representation  
+ARXIV 2017: Deep unsupervised clustering using mixture of autoencoders  
 
 
 2018:
