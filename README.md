@@ -51,6 +51,7 @@ NIPS 2019: Spectral Modification of Graphs for Improved Spectral Clustering
 NIPS 2019: Copulas as High-Dimensional Generative Models: Vine Copula Autoencoders  
 NIPS 2019: Learning Representations for Time Series Clustering  
 ICCV 2019: Deep Clustering by Gaussian Mixture Variational Autoencoders with Graph Embedding  
+ICCV 2019: Invariant information clustering for unsupervised image classification and segmentation
   
 
 
