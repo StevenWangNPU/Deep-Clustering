@@ -15,6 +15,7 @@ Arxiv 2017: Spectralnet: Spectral clustering using deep neural networks
 AAAI 2017: Cascade subspace clustering  
 AAAI 2017: Unsupervised multi-manifold clustering by learning deep representation  
 ARXIV 2017: Deep unsupervised clustering using mixture of autoencoders  
+ICCV 2017: Deep adaptive image clustering
 
 
 2018:  
