@@ -5,7 +5,6 @@ paper list
 ICML 2016 Unsupervised deep embedding for clustering analysis  
 
 
-
 2017:  
 ICCV 2017: Deep clustering via joint convolutional autoencoder embedding and relative entropy minimization  
 IJCAI 2017: Improved deep embedded clustering with local structure preservation  
@@ -54,7 +53,6 @@ ICCV 2019: Deep Clustering by Gaussian Mixture Variational Autoencoders with Gra
 ICCV 2019: Invariant information clustering for unsupervised image classification and segmentation
   
 
-
 2020:  
 PAMI 2020: Self-supervised visual feature learning with deep neural networks: A survey  
 TNNLS 2020: Deep subspace clustering  
@@ -66,3 +64,11 @@ KDD 2020: Deep Multimodal Clustering with Cross Reconstruction
 TIP 2020: Semantic Neighborhood-Aware Deep Facial Expression Recognition  
 SPL 2020: Deep Clustering With Variational Autoencoder  
 TIP 2020: Image Clustering via Deep Embedded Dimensionality Reduction and Probability-Based Triplet Loss  
+
+Autoencoder-based Deep clustering:
+
+Deep multi-view clustering:
+
+Deep incompleted multi-view clustering:
+
+Deep multi-modal clustering:
